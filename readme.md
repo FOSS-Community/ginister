@@ -16,6 +16,16 @@ Ginister is a Go CLI tool that helps you quickly scaffold a fully functioning ba
 
 ## Installation
 
+### How to install
+
+```sh
+curl -L https://fosscu.org/ginister/install.sh | sh
+```
+
+This will install ginister on your computer.
+
+### Install Manually
+
 Clone the repository and build the CLI tool:
 
 ```bash

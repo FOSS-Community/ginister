@@ -1,0 +1,15 @@
+project_name: "ginister"
+
+before:
+  hooks:
+    - go mod tidy
+    - go mod download
+
+builds:
+  - main: ./main.go
+    binary: ginister
+    goos:
+      - linux
+      - darwin
+    goarm:
+      - "7"
