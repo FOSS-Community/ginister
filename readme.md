@@ -45,3 +45,7 @@ go build -o ginister
 ├── main.go          # Entry point
 
 ```
+
+# Donation Acknowledgment
+
+**Proudly donated to [FOSS-Community](https://github.com/FOSS-Community) by [Shivam Bharadwaj](https://github.com/Bharadwajshivam28) and [Utkarsh Shrivastava](https://github.com/Utkarsh4517).**
